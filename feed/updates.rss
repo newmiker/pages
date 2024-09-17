@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Stripe Status - Incident History</title>
+    <link>https://www.stripestatus.com</link>
+    <description>Statuspage</description>
+    <pubDate>Sun, 15 Sep 2024 08:45:06 +0000</pubDate>
+    <item>
+      <title>Test API update</title>
+      <description>v1.35.0 is release\nNew transaction type</description>
+      <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1350-release</link>
+      <guid>https://docs.upvest.co/news#version-1350-release</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Swish</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Swish has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Tue, 08 Oct 2024 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 08 Oct 2024 04:00:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/7sf1tv336tfg</link>
+      <guid>https://www.stripestatus.com/incidents/7sf1tv336tfg</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Bancontact</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Bancontact has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Sun, 15 Sep 2024 06:00:02 +0000</pubDate>
+      <maintenanceEndDate>Sun, 15 Sep 2024 06:00:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/hwf98j6343dl</link>
+      <guid>https://www.stripestatus.com/incidents/hwf98j6343dl</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Bancontact</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Bancontact has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Sun, 15 Sep 2024 05:30:02 +0000</pubDate>
+      <maintenanceEndDate>Sun, 15 Sep 2024 09:30:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/pgphcjqj2w47</link>
+      <guid>https://www.stripestatus.com/incidents/pgphcjqj2w47</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Swish - Länsförsäkringar</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Swish - Länsförsäkringar has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Sat, 14 Sep 2024 03:00:02 +0000</pubDate>
+      <maintenanceEndDate>Sat, 14 Sep 2024 03:00:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/z20k3r229d8r</link>
+      <guid>https://www.stripestatus.com/incidents/z20k3r229d8r</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Swish - Länsförsäkringar</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Swish - Länsförsäkringar has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Sat, 14 Sep 2024 00:30:02 +0000</pubDate>
+      <maintenanceEndDate>Sat, 14 Sep 2024 00:30:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/1b276xh18466</link>
+      <guid>https://www.stripestatus.com/incidents/1b276xh18466</guid>
+    </item>
+    <item>
+      <title>Scheduled maintenance for Swish - Sparbanken Syd</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Swish - Sparbanken Syd has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
+      <pubDate>Sun, 08 Sep 2024 04:00:02 +0000</pubDate>
+      <maintenanceEndDate>Sun, 08 Sep 2024 04:00:00 +0000</maintenanceEndDate>
+      <link>https://www.stripestatus.com/incidents/kglfx5pwwdl4</link>
+      <guid>https://www.stripestatus.com/incidents/kglfx5pwwdl4</guid>
+    </item>
+  </channel>
+</rss>
